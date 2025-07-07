@@ -73,6 +73,4 @@ This project automates the process of generating personalized documents from Not
 - **Robust Error Handling**: Includes comprehensive error handling for network issues, file operations, and API interactions.
 - **Detailed Logging**: Logs are generated for tracking progress and debugging issues.
 
-## Conclusion
-
-This project demonstrates the integration of multiple APIs and technologies to automate document generation and email sending, showcasing skills in data handling, API integration, and workflow automation. 
+This project demonstrates the integration of multiple APIs and technologies to automate document generation and email sending, which showcase skills in data handling, API integration, and workflow automation. 
