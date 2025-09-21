@@ -75,6 +75,7 @@ This project automates the process of generating personalized documents from Not
 
 This project demonstrates the integration of multiple APIs and technologies to automate document generation and email sending, which showcase skills in data handling, API integration, and workflow automation. 
 
-`
-#this is now a software which works without that one feature which use to give the users the insane simplicity because of the the automation webhook which which was free since 2021 till the august of 2025 after the increase in ai this feature was made paid.
-`
+---
+`this is now a software which works without that one feature which use to give the users the insane simplicity because of the the automation webhook which which was free since 2021 till the august of 2025 after the increase in ai this feature was made paid.`
+
+---
