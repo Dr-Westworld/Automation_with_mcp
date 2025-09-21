@@ -1,5 +1,5 @@
 
-`code of this project is on my private repo as this project for my college`
+`code of this project is on my private repo as this project was for my college`
 
 ---
 # Automation
